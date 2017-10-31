@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "regrex",
+      "authorEmail": "dengxi.daisy@gmail.com",
+      "authorUrl": "https://regrex.github.io"
+    }
+  }
+}
